@@ -1,12 +1,4 @@
-/*
- *  COMP 1010    SECTION A01
- *  INSTRUCTOR:  Kathryn Marcynuk
- *  NAME:        Debosmitha Sen
- *  ASSIGNMENT:  Assignment #2
- *  QUESTION:    Question #5
- * 
- *  PURPOSE:     This program makes a pacman game.
- */
+
 
 float pacmanX, pacmanY;         //The position of the pacman
 float pacmanAngle = 0.0;        //The direction the pacman is facing
